@@ -1,6 +1,6 @@
 from qgis.core import QgsCoordinateReferenceSystem
 
-# User-defined CRS based on TransCAD Israel TM projection (GRS80 ellipsoid, Transverse Mercator)
+# credit: @mrnapop (https://github.com/mrnapop) for the projection
 TRANSCAD_CRS_WKT = """PROJCRS["unknown",
     BASEGEOGCRS["unknown",
         DATUM["D_Unknown_based_on_GRS80_ellipsoid",
