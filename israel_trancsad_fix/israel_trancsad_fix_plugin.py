@@ -4,7 +4,8 @@ from .processing_provider import IsraelTranscadFixProvider
 
 
 class IsraelTranscadFixPlugin:
-    def __init__(self):
+    def __init__(self, iface):
+        self.iface = iface
         self.provider = None
 
     def initProcessing(self):

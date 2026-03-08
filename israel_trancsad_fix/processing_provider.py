@@ -27,7 +27,7 @@ class IsraelTranscadFixProvider(QgsProcessingProvider):
         This string should be as short as possible (e.g. "Lastools", not
         "Lastools version 1.0.1 64-bit") and localised.
         """
-        return self.tr("Israel Transcad Fix")
+        return "Israel Transcad Fix"
 
     def icon(self) -> QIcon:
         """Should return a QIcon which is used for your provider inside
