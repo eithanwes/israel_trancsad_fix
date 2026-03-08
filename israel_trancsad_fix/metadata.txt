@@ -1,0 +1,11 @@
+[general]
+name=israel_trancsad_fix
+description=
+about=
+version=0.1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+author=Eithan Weiss Schonberg
+email=
+repository=https://github.com/eithanwes/israel_trancsad_fix
+icon=
