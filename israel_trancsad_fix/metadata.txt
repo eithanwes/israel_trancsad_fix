@@ -10,3 +10,4 @@ email=eithan.schonberg@gmail.com
 repository=https://github.com/eithanwes/israel_trancsad_fix
 tracker=https://github.com/eithanwes/israel_trancsad_fix/issues
 icon=
+tags=israel,transcad
