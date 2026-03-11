@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.3] - 2026-03-11
+- update metadata.txt with new description
+
 ## [0.1.2] - 2026-03-11
 - add name to credit
 
@@ -19,7 +22,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-[unreleased]: https://https://github.com/eithanwes/israel_trancsad_fix/compare/v0.1.2...HEAD
+[unreleased]: https://https://github.com/eithanwes/israel_trancsad_fix/compare/v0.1.3...HEAD
+[0.1.3]: https://github.com/eithanwes/israel_trancsad_fix/releases/compare/v0.1.2...v0.1.3
 [0.1.2]: https://github.com/eithanwes/israel_trancsad_fix/releases/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/eithanwes/israel_trancsad_fix/releases/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/eithanwes/israel_trancsad_fix/releases/tag/v0.1.0
