@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-03-11
+- add name to credit
+
 ## [0.1.1] - 2026-03-08
 - prepare for release in QGIS plugin repository
 
