@@ -1,10 +1,14 @@
 [general]
-name=israel_trancsad_fix
-description=a fix for the shift when importing layers from Transcad into QGIS for ITM projection
-about=a fix for the shift when importing layers from Transcad into QGIS for ITM projection. 
+name=Israel ITM TransCAD Fixer
+description=Fixes coordinate shift when importing TransCAD layers into QGIS (Israel ITM)
+about=Fixes a coordinate shift that can occur when vector layers exported
+    from TransCAD are opened in QGIS using the Israel ITM projection (EPSG:2039).
+    The plugin adds a processing algorithm for applying a corrective transformation to 
+    realign geometries with Israeli basemaps and datasets.
+    
     Custom Projection by Guy Kazakov (@mrnapop)
-version=0.1.0
-qgisMinimumVersion=3.0
+version=
+qgisMinimumVersion=3.28
 qgisMaximumVersion=4.99
 author=Eithan Weiss Schonberg
 email=eithan.schonberg@gmail.com
