@@ -1,7 +1,8 @@
 [general]
 name=israel_trancsad_fix
 description=a fix for the shift when importing layers from Transcad into QGIS for ITM projection
-about=a fix for the shift when importing layers from Transcad into QGIS for ITM projection. Thanks to @mrnapop for the projection.
+about=a fix for the shift when importing layers from Transcad into QGIS for ITM projection. 
+    Custom Projection by Guy Kazakov (@mrnapop)
 version=0.1.0
 qgisMinimumVersion=3.0
 qgisMaximumVersion=4.99
