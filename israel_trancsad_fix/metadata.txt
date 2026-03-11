@@ -1,5 +1,5 @@
 [general]
-name=Israel ITM TransCAD Fixer
+name=israel_trancsad_fix
 description=Fixes coordinate shift when importing TransCAD layers into QGIS (Israel ITM)
 about=Fixes a coordinate shift that can occur when vector layers exported
     from TransCAD are opened in QGIS using the Israel ITM projection (EPSG:2039).
